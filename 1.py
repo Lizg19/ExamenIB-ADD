@@ -11,16 +11,6 @@ from tweepy.streaming import StreamListener
 import json
 
 
-# In[2]:
-
-
-#credenciales de twitter
-ckey = "JmEIPt9XHuVAvZP9R9I4UKXlz"
-csecret = "JF8BKDmZ83OmFS2wgZPFl8WZCWJH9ZLD0iSKxpsdpuUuVWvRO6"
-atoken = "1415798278688497666-Dny3zzgqLbE4d8efWyfsCSGnPPJxyR"
-asecret = "mH3pMXpRyeerpHqkfBIh2JMIlkGpiPD2pUbLndGph0BXn"
-
-
 # In[3]:
 
 
