@@ -2,7 +2,7 @@
 
 *Para el primer script, importe las librerias de couchdb y tweepy para acceder a los datos de twitter
 *Luego ingrese mis credenciales
-*Extrai los datos con la class listener y autentifique mis credenciales.
+*Extraje los datos con la class listener y autentifique mis credenciales.
 *Luego, meconecte a couchdb con mis datos. Cree una base de datos e hice una busqueda segun la localizacion.
 
   >En el script 2 hice lo mismo que en uno pero realice una busqueda segun palabras clave - track
